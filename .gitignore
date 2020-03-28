@@ -1,0 +1,6 @@
+.project/
+.metadata
+.settings
+.idea/
+bin/
+target/
